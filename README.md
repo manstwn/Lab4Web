@@ -5,7 +5,16 @@
  #### 312110219
  #### Teknik Informatika
 
-Membuat Program CRUD berbasis website dengan menggunakan Database MySQL
+Menggunakan aplikasi web yang sama seperti Lab3Web, namun routing domain agar SEO friendly
+
+Berikut tampilan web index.\
+![](ss/ss6.png)
+ 
+ 
+ 
+ 
+
+Membuat Program CRUD berbasis website dengan menggunakan Database MySQL\
 
 Berikut tampilan web index.\
 ![](ss/ss1.png)
